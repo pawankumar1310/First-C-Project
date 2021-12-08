@@ -1,2 +1,44 @@
-# First-C-Project
-This is First C++ Project.
+
+# C++ First Project
+This is first C++ Project - "Hello World!"
+
+
+
+
+## Prerequisites
+ - C++ IDE
+   - [VS Code (Visual Studio Code)](https://code.visualstudio.com/docs/?dv=win)
+   - Install following extensions : -
+       -
+        i.) C/C++
+        ii.) Code runer
+        iii.) C/C++ Makefile Project 
+    - Go to manage setting and open Command Palette -type create c++ project and select folder for creating project.
+ - MinGW Compiler
+   - [MinGW-w64](https://sourceforge.net/projects/mingw-w64/)
+   - Now you need to set the environment variables, so for which you need to paste the bin path.In bin folder "make.exe" must be otherwise you will find the error such as "'make' is not recognized as an internal or external command".
+   - To avoid above such error we simply do following : -
+        -
+        i.) Make another copy of C:\MinGW\bin\mingw32-make.exe file in the same folder.
+        ii.) Rename the file name from mingw32-make.exe to make.exe.
+        iii.) Run make command again.
+        iv.) [For more details click here.](https://stackoverflow.com/questions/23723364/windows-7-make-is-not-recognized-as-an-internal-or-external-command-operabl)
+    
+
+
+## Compile and Run Program
+**After generating project and implementing the code we simply do following two steps : -**
+i.) To Compile the Program, type
+
+```bash
+  make
+```
+
+ii.) To run the Program, type
+
+```bash
+  ./main
+```
+ *where ./ represents present working directory and 'main' is the executable target file.*
+
+
