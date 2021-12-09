@@ -6,7 +6,7 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Wed Dec 08 12:12:08 2021
+# Make data base, printed on Thu Dec 09 10:41:46 2021
 
 # Variables
 
@@ -69,7 +69,7 @@ PROGRAMW6432 = C:\Program Files
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-b28ad8e7-2c48-4e9a-80ca-e906ed04a277-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-ef89c254-ef70-4a21-a0ed-8199805193b4-sock
 # environment
 VSCODE_CWD = C:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code
 # default
@@ -101,7 +101,7 @@ LIB := lib
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_5076_LGHJHPHUSROLPBSF
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_7364_ZHEYVYLHOXPRXTCY
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
@@ -237,7 +237,7 @@ PROCESSOR_LEVEL = 6
 # environment
 FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
-VSCODE_PID = 5076
+VSCODE_PID = 7364
 # environment
 USERDOMAIN_ROAMINGPROFILE = LAPTOP-F5OF9SN8
 # variable set hash-table stats:
@@ -249,10 +249,10 @@ USERDOMAIN_ROAMINGPROFILE = LAPTOP-F5OF9SN8
 
 # Directories
 
-# . (key c:/Users/ASUS/OneDrive/Desktop/Nickelfox/C++/First C++ Project, mtime 1638845676): 11 files, no impossibilities.
+# . (key c:/Users/ASUS/OneDrive/Desktop/Nickelfox/C++/First C++ Project, mtime 1638986701): 10 files, no impossibilities.
 # src (key c:/Users/ASUS/OneDrive/Desktop/Nickelfox/C++/First C++ Project/src, mtime 1638924043): 7 files, no impossibilities.
 
-# 18 files, no impossibilities in 2 directories.
+# 17 files, no impossibilities in 2 directories.
 
 # Implicit Rules
 
@@ -377,12 +377,12 @@ output:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 26 / storage = 184 B / avg = 7 B
-# current buf: size = 8174 B / used = 184 B / count = 26 / avg = 7 B
+# strcache buffers: 1 (0) / strings = 25 / storage = 173 B / avg = 6 B
+# current buf: size = 8174 B / used = 173 B / count = 25 / avg = 6 B
 
-# strcache performance: lookups = 46 / hit rate = 43%
+# strcache performance: lookups = 45 / hit rate = 44%
 # hash-table stats:
-# Load=26/8192=0%, Rehash=0, Collisions=2/46=4%
-# Finished Make data base on Wed Dec 08 12:12:08 2021
+# Load=25/8192=0%, Rehash=0, Collisions=2/45=4%
+# Finished Make data base on Thu Dec 09 10:41:46 2021
 
  
