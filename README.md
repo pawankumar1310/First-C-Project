@@ -33,7 +33,7 @@ This is first C++ Project - **Hello World**
   make
 ```
 
--  To run the Program, first change the directory and go to ouput folder where your **'main.exe'** file exits.For changing the directory,type **cd output** and for running the Program,type
+-  To run the Program, first change the directory and go to output folder where your **'main.exe'** file exits.For changing the directory,type **cd output** and for running the Program,type
 
 
 ```bash
