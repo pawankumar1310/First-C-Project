@@ -39,5 +39,9 @@ This is first C++ Project - "Hello World!"
   ./main
 ```
  *where ./ represents present working directory and 'main' is the executable target file.*
+ 
+ ## Output 
+ ![First_C++_project](https://user-images.githubusercontent.com/72221154/145340730-511b130d-c642-434a-a454-2c18549172a8.png)
+
 
 
